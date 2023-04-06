@@ -39,10 +39,12 @@
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhazlipse&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op"/>
 </p>
 
-<h2 align="center"><b>&nbsp; Thanks to visit my Profile &nbsp;</b>
+<br>
+<h2 align="center"><b>❤️&nbsp;Thanks to visit my Profile&nbsp;❤️</b>
 </h2>
- <p>
-   <img width="60%" src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
+<br>
+ <p align="center">
+   <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
 </p>
 
 <div align="center">
