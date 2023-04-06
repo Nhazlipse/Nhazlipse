@@ -29,13 +29,14 @@
 <br>
 <h2 align="center">⚙️ &nbsp; GitHub Stats &nbsp; ⚙️</h2>
 <br>
-<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Nhazlipse&show_icons=true&theme=radical" alt="Nhazlipse's GitHub Stats">
 </p>
 
+<br>
 <h2 align="center"> &nbsp; 🏆 My Achievements &nbsp; 🏆</h2>
+<br>
 
 <p <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Nhazlipse&theme=radical" alt="Nhazlipse's GitHub Trophy">
