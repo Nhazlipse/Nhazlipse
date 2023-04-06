@@ -8,7 +8,7 @@
 <br>
 
 <br>
-<h2 align="center">📚 &nbsp;Computer <i>Enthusiast</i> &nbsp;📚 </h2>
+<h2 align="center">📚&nbsp;Computer <i>Enthusiast</i> &nbsp;📚</h2>
 <br>
 <br>
 
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rikurunico&theme=radical&hide_border=false" alt="Nhazlipse's GitHub Stats">
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=rikurunico&theme=midnight-purple&hide_border=false" alt="Nhazlipse's GitHub Stats">
 </p>
 
 <p align="center">
