@@ -36,7 +36,7 @@
 <p align="center">
 <img width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nhazlipse&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true" alt="Nhazlipse's GitHub Stats">
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhazlipse&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op"/>
+<img  width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhazlipse&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op"/>
 </p>
 
 <br>
