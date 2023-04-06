@@ -31,6 +31,10 @@
 <br>
 <br>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nhazlipse&show_icons=true&theme=radical" alt="Nhazlipse's GitHub Stats">
+</p>
+
 <p <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Nhazlipse&theme=radical" alt="Nhazlipse's GitHub Trophy">
 </p>
