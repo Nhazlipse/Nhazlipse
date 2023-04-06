@@ -31,8 +31,8 @@
 <br>
 <br>
 
-<p align="center">
-    <img alt="GitHubStats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nhazlipse&count_private=true&theme=github_dark&hide_title=true&hide_rank=true&show_icons=true&card_width=290&include_all_commits=false&hide=contribs" />
+<p <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Nhazlipse&theme=radical" alt="Nhazlipse's GitHub Trophy">
 </p>
 
 <h2 align="center"><b>⚡ &nbsp; Watch my contributions get devoured! &nbsp; ⚡  </b>
