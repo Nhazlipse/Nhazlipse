@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-  <img height="120em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nhazlipse&layout=compact&hide_border=false&langs_count=4&bg_color=0E1117&theme=github_dark&custom_title=Languages%20I%20Use%20Frequently&exclude_repo=CS340,Nyumats-Website,Pathfinding-Algorithm-Tool,anuraghazra.github.io"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhazlipse&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op"/>
 </p>
 
 
@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Nhazlipse&show_icons=true&theme=radical" alt="Nhazlipse's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Nhazlipse&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="Nhazlipse's GitHub Stats">
 </p>
 
 <br>
