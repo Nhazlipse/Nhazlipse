@@ -31,16 +31,16 @@
 
 <p align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Nhazlipse&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="Nhazlipse's GitHub Stats">
-
+<p align="center">
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nhazlipse&theme=midnight-purple&hide_border=true" alt="Nhazlipse's GitHub Stats">
-
+<p align="center">
 <img width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nhazlipse&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true" alt="Nhazlipse's GitHub Stats">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhazlipse&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op"/>
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhazlipse&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op"/>
 </p>
 
-<h2 align="center"><b>⚡ &nbsp; Watch my contributions get devoured! &nbsp; ⚡  </b>
-  <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid"><img alt="SnakeSVG" src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/github-contribution-grid-snake.svg"/></a>
+<h2 align="center"><b>&nbsp; Welcome to my Profile &nbsp;</b>
+  <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
 </h2>
    
 
