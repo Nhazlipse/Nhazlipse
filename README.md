@@ -7,15 +7,6 @@
   </p>
 <br>
 
-<h2 align="center">💻 &nbsp; Languages &nbsp; 💻</h2>
-<br>
-<br>
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhazlipse&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op"/>
-</p>
-
-
 <br>
 <h2 align="center">📚 &nbsp;Computer <i>Enthusiast</i> &nbsp;📚 </h2>
 <br>
@@ -44,6 +35,8 @@
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nhazlipse&theme=midnight-purple&hide_border=true" alt="Nhazlipse's GitHub Stats">
 
 <img width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Nhazlipse&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true" alt="Nhazlipse's GitHub Stats">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nhazlipse&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op"/>
 </p>
 
 <h2 align="center"><b>⚡ &nbsp; Watch my contributions get devoured! &nbsp; ⚡  </b>
