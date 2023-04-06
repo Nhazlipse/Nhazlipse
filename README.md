@@ -46,7 +46,11 @@
  <p align="center">
    <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
 </p>
+<br>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=nhazlipse&label=Peeks&color=000000&style=for-the-badge" alt="Profile-Views">
-</div>
+<h2 align="center"><b>&nbsp;Visitors&nbsp;</b>
+<br>
+
+<p align="center">
+<img src="https://count.getloli.com/get/@Nhazlipse-github-readme?theme=rule34" alt="Visitors">
+</p>
