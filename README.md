@@ -40,7 +40,7 @@
 </p>
 
 <h2 align="center"><b>&nbsp; Welcome to my Profile &nbsp;</b>
-  <img src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
+  <img height="60%" src="https://github.com/Nhazlipse/Nhazlipse/blob/master/assets/nhazlipse.gif"/></a>
 </h2>
    
 
