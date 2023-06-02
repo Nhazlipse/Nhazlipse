@@ -26,9 +26,11 @@
 </p>
 
 <br>
+<h2 align="center">⚙️ &nbsp; GitHub Stats &nbsp; ⚙️</h2>
+<br>
 
 <p align="center">
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nhazlipse&theme=midnight-purple&hide_border=true" alt="Nhazlipse's GitHub Stats">
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=Nhazlipse&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="Nhazlipse's GitHub Stats">
 </p>
 
 <p align="center">
